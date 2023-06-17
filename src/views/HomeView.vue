@@ -20,11 +20,6 @@
       </li>
     </ul>
   </div>
-  <div id="copyright">
-        <div class="wrapper">
-            &copy; 2023. <b>KepoNihon.</b>
-        </div>
-    </div>
 </template>
 
 <script>
@@ -89,6 +84,7 @@ export default {
 }
 
 h1 {
+  font-family: 'comic sans ms';
   font-size: 36px;
   font-weight: bold;
   text-align: center;

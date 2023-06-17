@@ -10,7 +10,7 @@
                 </div>
                 <div class="footer-section">
                     <h3>About</h3>
-                    <p>KepoNihon. adalah website yang berisi to do list, Hal ini dapat digunakan untuk tugas harian, tugas mingguan, tugas bulanan, dan bahkan tugas tahunan. To do list sangat penting karena membantu kita mengatur waktu dan memastikan bahwa kita menyelesaikan pekerjaan tepat waktu.</p>
+                    <p>KepoNihon. adalah website yang berisi to do list dan Store pinia, Hal ini dapat digunakan untuk tugas harian, tugas mingguan, tugas bulanan, dan bahkan tugas tahunan. To do list sangat penting karena membantu kita mengatur waktu dan memastikan bahwa kita menyelesaikan pekerjaan tepat waktu.</p>
                 </div>
                 <div class="footer-section">
                     <h3>Contact</h3>
@@ -23,11 +23,6 @@
                     <p>Youtube : KepoNihon.</p>
                 </div>
             </div>
-        </div>
-    </div>
-    <div id="copyright">
-        <div class="wrapper">
-            &copy; 2023. <b>KepoNihon.</b>
         </div>
     </div>
 </template>
